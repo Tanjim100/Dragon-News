@@ -69,5 +69,7 @@ firebase deploy
   Want to read more?
   See this [Firebase Hosting Setup Complete Issue](https://dev.to/chayti/firebase-hosting-setup-complete-issue-43cg)
 
+  Firebase project limit increase:[Increasing Firebase Project Limit](https://dev.to/chayti/increasing-firebase-project-limit-5fei)
+
 Happy Deploying! 🚀
 
